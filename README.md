@@ -30,7 +30,7 @@ We use Google's coding standards as a reference. Please refer to the following l
 
 [TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
 
-== Github Repository Contributions
+# Github Repository Contributions
 
 All commits must occur on a branch other than master.
 
