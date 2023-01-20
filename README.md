@@ -37,3 +37,7 @@ All commits must occur on a branch other than main/master.
 Create a feature branch, with a descriptive name, and make commits to it. 
 
 Once the code is ready, open a merge request, and have it reviewed by one of the code owners of the project.
+
+If you have problems, first install [Git Credential Manager](https://github.com/GitCredentialManager/git-credential-manager/blob/main/README.md)
+
+If you still have problems, reach out to someone via our Discord, and someone will help. Please update these instructions as required!
