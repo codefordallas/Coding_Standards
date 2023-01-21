@@ -42,4 +42,4 @@ If you have problems, first install [Git Credential Manager](https://github.com/
 
 If you still have problems, reach out to someone via our Discord, and someone will help. 
 
-Please update these instructions as required!
+Please update these instructions as required! Happy coding!
