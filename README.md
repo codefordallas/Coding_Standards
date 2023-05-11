@@ -30,13 +30,16 @@ We use Google's coding standards as a reference. Please refer to the following l
 
 [TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
 
+
 # Github Repository Contributions
 
 All commits must occur on a branch other than master.
 
 Create a feature branch, with a descriptive name, and make commits to it. 
 
-Once the code is ready, open a merge request, and have it reviewed by one of the code owners of the project.
+Once the code is ready, open a merge request, and post a link to it in the Discord.
+   
+Add an @Core Team Admins, to get the attention for review.
 
 If you have problems, first install [Git Credential Manager](https://github.com/GitCredentialManager/git-credential-manager/blob/main/README.md)
 
